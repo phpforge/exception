@@ -1,0 +1,10 @@
+{
+	"name": "Forge/Exception",
+	"description": "Forge Exception",
+	"autoload": {
+		"psr-0": {"Forge": "src/"}
+	},
+	"require": {
+
+	}
+}
